@@ -1,0 +1,12 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+body {
+  height: 100vh;
+}
+.bg-light {
+  width: 30em
+}
+
+.quote-size {
+  font-size: 2em;
+}
